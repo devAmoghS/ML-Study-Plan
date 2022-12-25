@@ -110,34 +110,34 @@ If you have life questions, I have no idea.
 
 You have:
 =======================================
-Bachelors in Computer Science, Statistics, or Math
-Intermediate-advanced proficiency in programming (relative to the other two groups)
-Knowledge of data structures and algorithms i.e. leetcode
-Knowledge of SQL, Spark, Hadoop, AWS
-Projects in machine learning or Kaggle competitions
+Bachelors in Computer Science, Statistics, or Math <br/>
+Intermediate-advanced proficiency in programming (relative to the other two groups) <br/>
+Knowledge of data structures and algorithms i.e. leetcode <br/>
+Knowledge of SQL, Spark, Hadoop, AWS <br/>
+Projects in machine learning or Kaggle competitions <br/>
 
 Jobs you should target:
 =======================================
-Data Analyst
-Data Engineer
-Software Engineer in Machine Learning
-Software Engineer in Data Science
+Data Analyst <br/>
+Data Engineer <br/>
+Software Engineer in Machine Learning  <br/>
+Software Engineer in Data Science <br/>
 
 Obstacles you may face:
 =======================================
-You are looking for that rare, sweet spot in data science for entry level/new grad roles
-Every data science position you find online will have many applicants with a graduate degree so you will need to stand out somehow or get a referral
-Your lack of work experience will usually disqualify you for senior roles at larger companies and early hires at startups
-Avoid companies that do not have proper data infrastructure pipeline set up (they will likely bait and switch you or try to make you into a jack-of-all-trades data person)
+You are looking for that rare, sweet spot in data science for entry level/new grad roles <br/>
+Every data science position you find online will have many applicants with a graduate degree so you will need to stand out somehow or get a referral <br/>
+Your lack of work experience will usually disqualify you for senior roles at larger companies and early hires at startups <br/>
+Avoid companies that do not have proper data infrastructure pipeline set up (they will likely bait and switch you or try to make you into a jack-of-all-trades data person) <br/>
 
 How you should be job hunting:
 =======================================
-Consider data science roles at non-tech companies in data driven industries like healthcare analytics
-Network with your professors and classmates
-Next to a graduate degree, an internship in data science and machine learning is the next best thing
-Research experience is also really good to have and make great talking points in interviews
-Find out which interview skills are important for you (they vary from normal leetcode, project based, implementing research papers, SQL, ML theory, statistics puzzles depending on the company)
-Get into a Big-N as a regular software engineer and try to transition to their data science teams
+Consider data science roles at non-tech companies in data driven industries like healthcare analytics <br/>
+Network with your professors and classmates <br/>
+Next to a graduate degree, an internship in data science and machine learning is the next best thing <br/>
+Research experience is also really good to have and make great talking points in interviews <br/>
+Find out which interview skills are important for you (they vary from normal leetcode, project based, implementing research papers, SQL, ML theory, statistics puzzles depending on the company) <br/>
+Get into a Big-N as a regular software engineer and try to transition to their data science teams <br/>
 
 ## Ideas
 
@@ -148,13 +148,13 @@ Try out a simple demo by implementing the Deep Expectation Paper
 ### Articles about:
 Write in both Medium and LinkedIn
 
-1. Locality Sensitive Hashing
-2. Huffman Coding
-4. Basics of NLP
-5. Generative Adversarial Networks
-6. Neural Style Transfer
-7. Age-Gender Determination using Deep Learning
-8. Tail Recursion in Python / Scala
+1. Locality Sensitive Hashing <br/>
+2. Huffman Coding <br/>
+4. Basics of NLP <br/>
+5. Generative Adversarial Networks <br/>
+6. Neural Style Transfer -- Done <br/>
+7. Age-Gender Determination using Deep Learning <br/>
+8. Tail Recursion in Python / Scala <br/>
 
 ### Skills upgrading
 In demand tools: R Python SAS Tableau Spark
